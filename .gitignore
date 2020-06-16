@@ -1,0 +1,8 @@
+/node_modules
+/storage
+/public/storage
+/storage/*.key
+/storage/logs/*
+/vendor
+.idea
+*.iml
